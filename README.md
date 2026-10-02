@@ -30,6 +30,7 @@ The neural-processing module includes:
 
 ## FSM
 
+![FSM Diagram](images/FSM.png)
 
 ## Verification
 
