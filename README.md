@@ -1,9 +1,9 @@
 # Verilog Neural Processing System
 
-Digital Hardware design project implemented in Verilog.
+Verilog RTL implementation of a neural processing system featuring a 7-state Moore FSM, MAC datapath, ROM-based weights/biases and testbench verification.
 
-Course: Hardware I
-Academic Year: 2025-2026
+**Course:** Low Level Hardware Digital Systems I
+**Year:** 2025-2026
 
 ## Project Overview
 
